@@ -3,8 +3,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    /* "start": "npx nodemon server.js" */
-    "start": "node server.js"
+    "start": "npx nodemon server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
